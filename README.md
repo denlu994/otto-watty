@@ -11,6 +11,6 @@ The code in utils provide everything needed to build and train a neural network.
 * Hyperopt
 * Sklearn
 
-Note: it is probably note easy to get this running, because the code is from May 2015 and Lasagne is under rapid development. In addition hyperopt needs some special attention as it needs an old version of pymongo. 
+Note: it is probably not easy to get this running, because the code is from May 2015 and Lasagne is under rapid development. In addition hyperopt needs some special attention as it needs an old version of pymongo. 
 
-Also the data needs to be downloaded from Kaggle.
+Also the data need to be downloaded from Kaggle.
